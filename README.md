@@ -23,6 +23,9 @@
 <a href="https://www.linkedin.com/in/marcello-garcia-30460b212/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br>
+
+##Status
 <div>
 <a href="https://github.com/MarcelloGcL">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloGcL&layout=compact&langs_count=7&theme=dracula"/>
