@@ -1,6 +1,3 @@
-![snake gif](https://github.com/MarcelloGcL/MarcelloGcL/blob/output/github-contribution-grid-snake.svg)
-
-
 🌱 Welcome to my GitHub! Here you'll find My Journey's path through codes, projects, and a passion for learning. Feel free to explore, contribute, and follow along on this coding adventure!.
 
 🎮 Games are my passion!
@@ -40,7 +37,8 @@
 
 
 
+![snake gif](https://github.com/MarcelloGcL/MarcelloGcL/blob/output/github-contribution-grid-snake.svg)
 
-          
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MarcelloGcL&repo=MarcelloGcL&theme=react)](https://github.com/MarcelloGcL/MarcelloGcL).          
           
           
