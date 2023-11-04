@@ -37,8 +37,8 @@
 
 
 
-![snake gif](https://github.com/MarcelloGcL/MarcelloGcL/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/MarcelloGcL/MarcelloGcL/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MarcelloGcL&repo=MarcelloGcL&theme=react)](https://github.com/MarcelloGcL/MarcelloGcL).          
+(https://github-readme-stats.vercel.app/api/pin/?username=MarcelloGcL&repo=MarcelloGcL&theme=react)](https://github.com/MarcelloGcL/MarcelloGcL).          
           
           
